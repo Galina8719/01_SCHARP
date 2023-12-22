@@ -5,6 +5,7 @@ int d = 4;
 int e = 10;
 
 int max = a;
+
 if (b > max)
 {
    max = b; 
