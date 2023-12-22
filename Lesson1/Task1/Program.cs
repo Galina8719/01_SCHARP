@@ -1,4 +1,5 @@
 ﻿//Console.WriteLine("Hello world");
+// Объявить переменную, инициализировать её некоторым значением и вывести его на экран.
 
 int value = 100;
 Console.WriteLine(value);
