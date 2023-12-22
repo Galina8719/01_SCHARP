@@ -8,18 +8,18 @@ int max = a;
 
 if (b > max)
 {
-   max = b; 
+    max = b;
 }
 if (c > max)
 {
-   max = c; 
+    max = c;
 }
 if (d > max)
 {
-   max = d; 
+    max = d;
 }
 if (e > max)
 {
-   max = e; 
+    max = e;
 }
 Connsole.WriteLine(max);
