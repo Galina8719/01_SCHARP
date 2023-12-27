@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Geek Brains\Znakomstvo_s_yazykami_programm\CSHARP_main\01_SCHARP\Lesson2\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Geek Brains\Znakomstvo_s_yazykami_programm\CSHARP_main\01_SCHARP\Lesson2\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Geek Brains\Znakomstvo_s_yazykami_programm\CSHARP_main\01_SCHARP\Lesson2\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+C:\Users\User\Desktop\Geek Brains\Znakomstvo_s_yazykami_programm\CSHARP_main\01_SCHARP\Lesson2\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Geek Brains\Znakomstvo_s_yazykami_programm\CSHARP_main\01_SCHARP\Lesson2\Task4\obj\Debug\net8.0\Task4.sourcelink.json
