@@ -29,7 +29,7 @@ void ShowSquar(int value) (пустота)
 
 void ShowHelloMessage()                 //Без параметров, без возвращаемого значения
 {
-    Console.WritLine("Hello World!");   //Побочный эффект
+    Console.WriteLine("Hello World!");   //Побочный эффект
 }
 
 double GetPi()                          //Без параметров, с возвращаемым значением
@@ -39,7 +39,7 @@ double GetPi()                          //Без параметров, с воз
 
 void ShowMessage(string message)        //С параметрами, без возвращаемого значения
 {
-    Console.WritLine(message);
+    Console.WriteLine(message);
 }
 
 int AddValues(int a, int b)             //С параметрами, с возвращаемым значением
