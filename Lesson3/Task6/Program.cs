@@ -84,4 +84,4 @@ GetSumOfElements(arr);
 Console.WriteLine(sum);
 //Console.WriteLine(product);
 
-//Ничего не получилось =((
+//Ничего не получилось =(())

@@ -21,7 +21,7 @@ int Multiply(int value1, int value2)
     return result;
 }
 
-void ShowSquar(int value) (пустота)
+void ShowSquar(int value) //(пустота)
 {
     int result = value * value;     //Тело функции
     Console.Write(result);
