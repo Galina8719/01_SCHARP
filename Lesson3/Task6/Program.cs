@@ -39,7 +39,7 @@ int[] arr = new int[10] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 int i = 0;
 
 // int FillArray(int[] arr)                    //заполняющий массив
-// {                                        //ВЫДАЁТ ММАССИВ, НО С ОШИБКОЙ (( НУЖНО РАЗОБРАТЬСЯ, ЧТО НЕ ТАК.
+// {                                        
 //     while (i < n)
 //     {
 //         arr[i] = i + 1;
@@ -83,5 +83,3 @@ GetSumOfElements(arr);
 // GetProductOfElements(arr);
 Console.WriteLine(sum);
 //Console.WriteLine(product);
-
-//Ничего не получилось =(())
