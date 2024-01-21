@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Geek Brains\\Znakomstvo_s_yazykami_programm\\CSHARP_main\\01_SCHARP\\Lesson3\\Lesson3.csproj": {}
+    "C:\\Users\\User\\Desktop\\Geek Brains\\Znakomstvo_s_yazykami_programm\\CSHARP_main\\01_SCHARP\\Lesson3\\Task7\\Task7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Geek Brains\\Znakomstvo_s_yazykami_programm\\CSHARP_main\\01_SCHARP\\Lesson3\\Lesson3.csproj": {
+    "C:\\Users\\User\\Desktop\\Geek Brains\\Znakomstvo_s_yazykami_programm\\CSHARP_main\\01_SCHARP\\Lesson3\\Task7\\Task7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Geek Brains\\Znakomstvo_s_yazykami_programm\\CSHARP_main\\01_SCHARP\\Lesson3\\Lesson3.csproj",
-        "projectName": "Lesson3",
-        "projectPath": "C:\\Users\\User\\Desktop\\Geek Brains\\Znakomstvo_s_yazykami_programm\\CSHARP_main\\01_SCHARP\\Lesson3\\Lesson3.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Geek Brains\\Znakomstvo_s_yazykami_programm\\CSHARP_main\\01_SCHARP\\Lesson3\\Task7\\Task7.csproj",
+        "projectName": "Task7",
+        "projectPath": "C:\\Users\\User\\Desktop\\Geek Brains\\Znakomstvo_s_yazykami_programm\\CSHARP_main\\01_SCHARP\\Lesson3\\Task7\\Task7.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Geek Brains\\Znakomstvo_s_yazykami_programm\\CSHARP_main\\01_SCHARP\\Lesson3\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Geek Brains\\Znakomstvo_s_yazykami_programm\\CSHARP_main\\01_SCHARP\\Lesson3\\Task7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
