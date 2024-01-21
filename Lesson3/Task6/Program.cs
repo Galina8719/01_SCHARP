@@ -36,6 +36,8 @@
 int n = 10;
 int[] arr = new int[10] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 int i = 0;
+int sum = 0;
+int product = 1;
 
 // int FillArray(int[] arr)                    //заполняющий массив
 // {                                        
@@ -57,9 +59,8 @@ int i = 0;
 //     }
 // }
 
-int sum = GetSumOfElements(int[] arr)     //сумма
+int GetSumOfElements(int[] arr)     //сумма
  {
-    int sum = 0;
     while (i < n)
     {
         sum = sum + arr[i];
@@ -68,17 +69,21 @@ int sum = GetSumOfElements(int[] arr)     //сумма
     return sum;
 }
 
-// int product = GetProductOfElements()
-// {
-//     int product = 1;
-//     while (i < n)
-//     {
-//         product = product * arr[i];
-//     }
-// }
+int GetProductOfElements(int[] arr)
+{
+    int product = 1;
+    while (i < n)
+    {
+        product = product * arr[i];
+        i++;
+    }
+    return product;
+}
+Console.Write(arr);
+Console.WriteLine();
 //FillArray(arr);
 // PrintArray(arr);
 GetSumOfElements(arr);
-// GetProductOfElements(arr);
-Console.WriteLine(sum);
-//Console.WriteLine(product);
+GetProductOfElements(arr);
+Console.WriteLine($"Сумма элементов массива = {sum}");
+Console.WriteLine($"Произведение элементов массива = {product}");
