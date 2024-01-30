@@ -1,2 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задача № 1
+// Вычислить факториал от натурального числа N.
+
+//Добавить в код отладочный вывод, который позволит увидеть
+//"раскручивание" рекурсии, то есть процесс возвратов к местам
+//рекурсивного вызова функции на строке 16.
+
+int Fact(int n)
+{
+    if (n == 1 || n == 0)
+    {
+        Console.WriteLine($"Stop requrson: n={n}");
+        return 1;
+    }
+    Console.WriteLine(n);
+    return n * Fact(n - 1);
+}
+
+Console.WriteLine(Fact(5));

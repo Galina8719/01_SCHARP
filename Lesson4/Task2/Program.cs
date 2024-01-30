@@ -47,17 +47,16 @@ bool IsInteresting(int value)
     {
         return true;
     }
-        return false;
+    return false;
 }
 
 int GetSumOFDigits(int value)
 {
     int sum = 0;
-    while(value > 0)
+    while (value > 0)
     {
         sum = sum + value % 10;
         value = value / 10;
     }
     return sum;
 }
-

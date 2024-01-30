@@ -10,4 +10,3 @@
 PrintSquares(5);
 PrintSquares(10);
 PrintSquares(15);
-

@@ -13,7 +13,7 @@ int Square (int value)
     int result = value * value;
     return result;
 }
-                                    //Функция == метод
+                                        //Функция == метод
 //Функция произведение
 int Multiply(int value1, int value2)
 {
@@ -21,9 +21,9 @@ int Multiply(int value1, int value2)
     return result;
 }
 
-void ShowSquar(int value) //(пустота)
+void ShowSquar(int value)               //(пустота)
 {
-    int result = value * value;     //Тело функции
+    int result = value * value;         //Тело функции
     Console.Write(result);
 }
 
