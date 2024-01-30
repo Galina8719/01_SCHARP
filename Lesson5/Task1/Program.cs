@@ -1,10 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿void OpenMatryoshka(int size)
+{
+    Console.WriteLine($"Opening matryoshka of size {size}...");
+    //Базовый случай: самая маленькая матрешка
+    if (size == 1)
+    {
+        Console.WriteLine("Reached the smallest matryoshka!");
+        return;
+    }
+    OpenMatryoshka(size-1);
+}
 
-
-// string[,,] data = new string[3,3,3];
-// data.SetValue("foo", 0, 1, 2 );
-// for (int i = data.GetLowerBound(0); i <= data.GetUpperBound(0); i++)
-//     for (int j = data.GetLowerBound(1); j <= data.GetUpperBound(1); j++)
-//         for (int k = data.GetLowerBound(2); k <= data.GetUpperBound(2); k++)
-//             Console.WriteLine("{0},{1},{2}: {3}", i, j, k, data[i,j,k]);
+OpenMatryoshka(5);
